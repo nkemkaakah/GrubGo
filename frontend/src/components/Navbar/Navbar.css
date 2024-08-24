@@ -5,6 +5,11 @@
     align-items: center;
 }
 
+.navbar-link{
+    color: navy;
+    font-size: 40px;
+}
+
 .navbar .logo{
     width: 150px;
 }

@@ -1,5 +1,5 @@
 /* eslint-disable react/prop-types */
-import React, { useContext, useState } from 'react'
+import  { useContext, useState } from 'react'
 import './Navbar.css'
 import { assets } from '../../assets/assets'
 import { Link,useNavigate } from 'react-router-dom'
@@ -22,7 +22,7 @@ const Navbar = ({ setShowLogin }) => {
 
   return (
     <div className='navbar'>
-      <Link to='/'><img src={assets.logo} alt="" className='logo' /></Link>
+      <Link to='/' ><h1 className='navbar-link'>GrubGo</h1></Link>
       
       <ul className="navbar-menu">
         <Link to='/' onClick={() => setMenu("home")} className={menu === "home" ? "active" : ""}>home</Link>

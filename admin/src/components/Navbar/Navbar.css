@@ -4,6 +4,10 @@
     align-items: center;
     padding: 8px 4%;
 }
+
+.navbar h1{
+    color: navy;
+}
 .navbar .logo{
     width: max(10%,80px);
 

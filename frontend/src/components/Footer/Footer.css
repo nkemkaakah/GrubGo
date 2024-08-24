@@ -9,6 +9,10 @@
     padding: 80px;
     margin-top: 100px;
 }
+
+.footer-heading{
+    color: rgb(123, 123, 225)
+}
 .footer-content{
     width: 100%;
     display: grid;

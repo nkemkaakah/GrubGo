@@ -1,4 +1,4 @@
-import React from 'react'
+
 import './Footer.css'
 import { assets } from '../../assets/assets'
 
@@ -7,7 +7,7 @@ const Footer = () => {
     <div className='footer' id='footer'>
       <div className="footer-content">
         <div className="footer-content-left">
-            <img src={assets.logo} alt="" />
+            <h1 className='footer-heading'>GrubGo</h1>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident nam a et maxime, ex rem nulla natus magni cupiditate similique, omnis ea explicabo, amet doloremque dolor cumque veniam dignissimos. Quis?</p>
             <div className="footer-social-icons">
                 <img src={assets.facebook_icon} alt="" />
@@ -33,7 +33,7 @@ const Footer = () => {
         </div>
       </div>
       <hr />
-      <p className="footer-copyright">Copyright 2024 Tomato.com - All RIght Reserved.</p>
+      <p className="footer-copyright">Copyright 2024 GrubGo.com - All RIght Reserved.</p>
     </div>
   )
 }
