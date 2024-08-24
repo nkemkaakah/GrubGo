@@ -20,4 +20,48 @@
 
 ####Here are some screenshots below:
 
-### Sign Up, Login Page
+### Sign Up, Login Page:
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github.com/nkemkaakah/GrubGo/blob/master/admin/src/assets/srnshots/signup.png" width="45%" style="margin: 5px;"/>
+  <img src="https://github.com/nkemkaakah/GrubGo/blob/master/admin/src/assets/srnshots/login.png" width="45%" style="margin: 5px;"/>
+  <img src="https://github.com/nkemkaakah/GrubGo/blob/master/admin/src/assets/srnshots/logout.png" width="45%" style="margin: 5px;"/>
+</div>
+
+
+###Layout & Features:
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github.com/nkemkaakah/GrubGo/blob/master/admin/src/assets/srnshots/hero.png" width="45%" style="margin: 5px;"/>
+  <img src="https://github.com/nkemkaakah/GrubGo/blob/master/admin/src/assets/srnshots/menu.png" width="45%" style="margin: 5px;"/>
+  <img src="https://github.com/nkemkaakah/GrubGo/blob/master/admin/src/assets/srnshots/contact.png" width="45%" style="margin: 5px;"/>
+ 
+</div>
+
+###Shooping Cart && Stripe Integration:
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github.com/nkemkaakah/GrubGo/blob/master/admin/src/assets/srnshots/shoppingcart.png" width="45%" style="margin: 5px;"/>
+  <img src="https://github.com/nkemkaakah/GrubGo/blob/master/admin/src/assets/srnshots/checkout.png" width="45%" style="margin: 5px;"/>
+  <img src="https://github.com/nkemkaakah/GrubGo/blob/master/admin/src/assets/srnshots/stripe.png" width="45%" style="margin: 5px;"/>
+  
+ 
+</div>
+
+
+###Admin Pages:
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github.com/nkemkaakah/GrubGo/blob/master/admin/src/assets/srnshots/admin.png" width="45%" style="margin: 5px;"/>
+  <img src="https://github.com/nkemkaakah/GrubGo/blob/master/admin/src/assets/srnshots/adminlist.png" width="45%" style="margin: 5px;"/>
+  <img src="https://github.com/nkemkaakah/GrubGo/blob/master/admin/src/assets/srnshots/adminorders.png" width="45%" style="margin: 5px;"/>
+  
+  
+ 
+</div>
+
+###Mobile responsiveness & view:
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github.com/nkemkaakah/GrubGo/blob/master/admin/src/assets/srnshots/mobile.png" width="45%" style="margin: 5px;"/>
+  <img src="https://github.com/nkemkaakah/GrubGo/blob/master/admin/src/assets/srnshots/mobilecart.png" width="45%" style="margin: 5px;"/>
+ 
+  
+  
+ 
+</div>
