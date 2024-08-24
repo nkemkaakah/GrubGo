@@ -58,8 +58,8 @@
 
 ###Mobile responsiveness & view:
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="https://github.com/nkemkaakah/GrubGo/blob/master/admin/src/assets/srnshots/mobile.png" width="45%" style="margin: 5px;"/>
-  <img src="https://github.com/nkemkaakah/GrubGo/blob/master/admin/src/assets/srnshots/mobilecart.png" width="45%" style="margin: 5px;"/>
+  <img src="https://github.com/nkemkaakah/GrubGo/blob/master/admin/src/assets/srnshots/mobile.png" width="25%" style="margin: 5px;"/>
+  <img src="https://github.com/nkemkaakah/GrubGo/blob/master/admin/src/assets/srnshots/mobilecart.png" width="25%" style="margin: 5px;"/>
  
   
   
